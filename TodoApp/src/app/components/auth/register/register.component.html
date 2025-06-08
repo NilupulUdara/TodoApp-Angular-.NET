@@ -1,0 +1,86 @@
+<div class="max-w-md mx-auto my-5 p-6 bg-white rounded-lg shadow-md">
+  <div class="mb-4">
+    <h2 class="text-2xl font-bold text-gray-800">Register</h2>
+  </div>
+  <form [formGroup]="registerForm" (ngSubmit)="onSubmit()" class="space-y-4">
+    <div>
+      <label for="username" class="block text-sm font-medium text-gray-700">Email</label>
+      <input id="username" formControlName="username" type="email"
+        class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+        [ngClass]="{'border-red-500': registerForm.get('username')?.touched && (registerForm.get('username')?.hasError('required') || registerForm.get('username')?.hasError('email'))}"
+        aria-describedby="username-error" />
+      @if (registerForm.get('username')?.touched) {
+      @if (registerForm.get('username')?.hasError('required')) {
+      <p id="username-error" class="text-red-500 text-sm mt-1">Username is required.</p>
+      } @else if (registerForm.get('username')?.hasError('email')) {
+      <p id="username-error" class="text-red-500 text-sm mt-1">Invalid email format.</p>
+      }
+      }
+    </div>
+    <div>
+      <label for="password" class="block text-sm font-medium text-gray-700">Password</label>
+      <input id="password" formControlName="password" type="password"
+        class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+        [ngClass]="{'border-red-500': registerForm.get('password')?.touched && (registerForm.get('password')?.hasError('required') || registerForm.get('password')?.hasError('minlength'))}"
+        aria-describedby="password-error" />
+      @if (registerForm.get('password')?.touched) {
+      @if (registerForm.get('password')?.hasError('required')) {
+      <p id="password-error" class="text-red-500 text-sm mt-1">Password is required.</p>
+      }
+      @if (registerForm.get('password')?.hasError('minlength')) {
+      <p id="password-error" class="text-red-500 text-sm mt-1">Password must be at least 6 characters.</p>
+      }
+      }
+    </div>
+    <div>
+      <label for="roles" class="block text-sm font-medium text-gray-700">Roles (select at least one)</label>
+      <select id="roles" formControlName="roles" multiple size="2"
+        class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+        [ngClass]="{'border-red-500': registerForm.get('roles')?.touched && (registerForm.get('roles')?.hasError('required') || registerForm.get('roles')?.hasError('minRoles'))}"
+        aria-describedby="roles-error">
+        @for (role of availableRoles; track role) {
+        <option [value]="role">{{ role }}</option>
+        }
+      </select>
+      @if (registerForm.get('roles')?.touched) {
+      @if (registerForm.get('roles')?.hasError('required')) {
+      <p id="roles-error" class="text-red-500 text-sm mt-1">At least one role is required.</p>
+      } @else if (registerForm.get('roles')?.hasError('minRoles')) {
+      <p id="roles-error" class="text-red-500 text-sm mt-1">Please select at least one role.</p>
+      }
+      }
+    </div>
+    <div class="flex space-x-2">
+      <button type="submit"
+        class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:bg-gray-400 disabled:cursor-not-allowed"
+        [disabled]="registerForm.invalid || isSubmitting">
+        @if (isSubmitting) {
+        <span class="inline-flex items-center">
+          <svg class="animate-spin h-5 w-5 mr-2 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
+            viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8h8a8 8 0 01-16 0z"></path>
+          </svg>
+          Registering...
+        </span>
+        } @else {
+        Register
+        }
+      </button>
+      <!-- <a routerLink="login"
+        class="bg-gray-300 text-white px-4 py-2 rounded-md hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-gray-500 text-center">
+        Login
+      </a> -->
+    </div>
+    @if (successMessage) {
+    <p class="text-green-500 text-sm mt-2 font-medium" role="alert">{{ successMessage }}</p>
+    }
+    @if (errorMessage) {
+    <p class="text-red-500 text-sm mt-2 font-medium" role="alert">{{ errorMessage }}</p>
+    }
+    <p class="text-sm text-center mt-4">
+      Already have an account?
+      <a routerLink="/login" class="text-blue-600 hover:underline">Login</a>
+    </p>
+  </form>
+</div>

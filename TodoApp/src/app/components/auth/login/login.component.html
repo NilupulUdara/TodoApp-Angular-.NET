@@ -1,0 +1,46 @@
+<div class="max-w-md mx-auto mt-10 bg-white shadow-md rounded-lg p-6">
+  <h2 class="text-2xl font-semibold mb-4 text-center">Login</h2>
+
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="space-y-4">
+    <!-- Email -->
+    <div>
+      <label class="block text-sm font-medium mb-1" for="email">Email</label>
+      <input id="email" type="email" formControlName="username"
+        class="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
+      @if (loginForm.get('username')?.touched) {
+      @if (loginForm.get('username')?.hasError('required')) {
+      <p class="text-red-500 text-sm mt-1">Email is required</p>
+      } @else if (loginForm.get('username')?.hasError('email')) {
+      <p class="text-red-500 text-sm mt-1">Invalid email format</p>
+      }
+      }
+    </div>
+
+    <!-- Password -->
+    <div>
+      <label class="block text-sm font-medium mb-1" for="password">Password</label>
+      <input id="password" type="password" formControlName="password"
+        class="w-full border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
+      @if (loginForm.get('password')?.touched) {
+      @if (loginForm.get('password')?.hasError('required')) {
+      <p class="text-red-500 text-sm mt-1">Password is required</p>
+      }
+      }
+    </div>
+
+    <!-- Submit -->
+    <button type="submit" [disabled]="loginForm.invalid"
+      class="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 disabled:opacity-50">
+      Login
+    </button>
+  </form>
+
+  @if (errorMessage) {
+  <p class="text-red-500 text-center mt-4">{{ errorMessage }}</p>
+  }
+
+  <p class="text-sm text-center mt-4">
+    Don't have an account?
+    <a routerLink="/register" class="text-blue-600 hover:underline">Register</a>
+  </p>
+</div>

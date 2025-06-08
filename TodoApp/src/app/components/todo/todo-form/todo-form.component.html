@@ -1,0 +1,47 @@
+<div class="max-w-md mx-auto my-5 p-6 bg-white rounded-lg shadow-md">
+  <div class="mb-4">
+    <h2 class="text-2xl font-bold text-gray-800">{{ isEdit ? 'Edit Todo' : 'Add Todo' }}</h2>
+  </div>
+  <form [formGroup]="todoForm" (ngSubmit)="onSubmit()" class="space-y-4">
+    <div>
+      <label for="title" class="block text-sm font-medium text-gray-700">Title</label>
+      <input
+        id="title"
+        formControlName="title"
+        type="text"
+        class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+        [ngClass]="{'border-red-500': todoForm.get('title')?.hasError('required') && todoForm.get('title')?.touched}"
+      >
+      @if (todoForm.get('title')?.hasError('required') && todoForm.get('title')?.touched) {
+        <p class="text-red-500 text-sm mt-1">Title is required</p>
+      }
+    </div>
+    <div>
+      <label class="inline-flex items-center">
+        <input
+          type="checkbox"
+          formControlName="iscompleted"
+          class="h-4 w-4 text-blue-500 border-gray-300 rounded"
+        >
+        <span class="ml-2 text-sm text-gray-700">Completed</span>
+      </label>
+    </div>
+    <div class="flex space-x-2">
+      <button
+        type="submit"
+        class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 disabled:bg-gray-400 disabled:cursor-not-allowed"
+        [disabled]="todoForm.invalid"
+      >
+        {{ isEdit ? 'Update' : 'Create' }}
+      </button>
+      <button
+        type="button"
+        class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600"
+        (click)="cancel()"
+
+      >
+        Cancel
+      </button>
+    </div>
+  </form>
+</div>
