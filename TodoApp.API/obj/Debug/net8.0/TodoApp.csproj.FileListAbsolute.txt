@@ -1,0 +1,366 @@
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\appsettings.json
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.exe
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.deps.json
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.runtimeconfig.json
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.pdb
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.csproj.AssemblyReference.cache
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.AssemblyInfoInputs.cache
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.AssemblyInfo.cs
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets\msbuild.TodoApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApp.props
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApp.props
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApp.props
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\scopedcss\bundle\TodoApp.styles.css
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.csproj.Up2Date
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.dll
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\refint\TodoApp.dll
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.pdb
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.genruntimeconfig.cache
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\ref\TodoApp.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\MySqlConnector.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\AutoMapper.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\TodoApp\TodoApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.sourcelink.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\appsettings.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\TodoApp.exe
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\TodoApp.deps.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\TodoApp.runtimeconfig.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\TodoApp.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\TodoApp.pdb
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\MySqlConnector.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.csproj.AssemblyReference.cache
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.AssemblyInfoInputs.cache
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.AssemblyInfo.cs
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.sourcelink.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.TodoApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApp.props
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApp.props
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApp.props
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\scopedcss\bundle\TodoApp.styles.css
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.csproj.Up2Date
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\refint\TodoApp.dll
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.pdb
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\TodoApp.genruntimeconfig.cache
+D:\Projects\TodoApp (Full Stack)\TodoApp.API\obj\Debug\net8.0\ref\TodoApp.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\appsettings.Development.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\appsettings.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\TodoApp.exe
+D:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\TodoApp.deps.json
+D:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\TodoApp.runtimeconfig.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\TodoApp.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\TodoApp.pdb
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\AutoMapper.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Humanizer.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\MySqlConnector.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.CodeDom.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.Composition.Convention.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.csproj.AssemblyReference.cache
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.AssemblyInfoInputs.cache
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.AssemblyInfo.cs
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.csproj.CoreCompileInputs.cache
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.MvcApplicationPartsAssemblyInfo.cs
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.MvcApplicationPartsAssemblyInfo.cache
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.sourcelink.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets.build.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets.development.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.TodoApp.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApp.props
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApp.props
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApp.props
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\scopedcss\bundle\TodoApp.styles.css
+D:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.csproj.Up2Date
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\refint\TodoApp.dll
+d:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.pdb
+D:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\TodoApp.genruntimeconfig.cache
+D:\Projects\TodoApp-Angular-.NET\TodoApp.API\obj\Debug\net8.0\ref\TodoApp.dll
